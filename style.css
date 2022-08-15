@@ -15,8 +15,6 @@ body {
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 60px;
-  /* margin-left: 10%;
-  margin-top: 2%; */
   height: 100vh;
 }
 .navbar-container {
@@ -105,15 +103,14 @@ body {
   z-index: 1;
 }
 .square > img {
-  width: 286px;
+  width: 266px;
 }
 
 .hero-container > div > img{
   position: relative;
-  margin-top: 55px;
+  margin-top: 65px;
   left: 0px;
-  width: 360px;
-  /* height: 650px; */
+  width: 340px;
   z-index: 2;
 }
 
