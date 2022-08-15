@@ -109,7 +109,7 @@ body {
 .hero-container > div > img{
   position: relative;
   margin-top: 65px;
-  left: 0px;
+  left: 7px;
   width: 340px;
   z-index: 2;
 }
